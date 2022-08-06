@@ -10,10 +10,10 @@ Kamu adalah seorang programmer yang bekerja pada suatu start-up terkini, kemudia
     - *folder* `sekolah`
     - *folder* `kerja`
     <br>
-    ```bash
+```bash
     mkdir sekolah
     mkdir kerja
-    ```
+```
 
 3. masuk ke dalam folder `sekolah`
     - buat *file* dengan nama `ijazah.txt`, yang mana file tersebut akan memiliki teks seperti:
