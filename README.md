@@ -49,6 +49,9 @@ nano portfolio.txt
 ```
 
 4. keluar dari *folder* sekolah
+```bash
+cd ..
+```
 5. masuk kedalam *folder* `kerja`
     - buat *file* dengan nama `cv.txt`, yang mana hal tersebut akan memiliki teks seperti:
 
@@ -64,4 +67,12 @@ nano portfolio.txt
         - $NAMA ⇒ diganti dengan namamu sendiri
         - $HOBBY ⇒ diganti dengan hobi-mu sendiri
     - tampilkan isi dari *file* tersebut menggunakan `CLI command`
+```bash
+cd kerja
+nano cv.txt
+```
 6. Pada tahap ini kamu lupa jika sebenarnya *file* `portfolio.txt` serahusnya tidak berada pada *folder* `sekolah`, jadi kamu harus **memindahkannya** ke dalam folder `kerja`
+```bash
+cd ../sekolah
+mv portfolio.txt ../kerja/
+```
