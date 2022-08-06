@@ -1,6 +1,9 @@
 Kamu adalah seorang programmer yang bekerja pada suatu start-up terkini, kemudian kamu diminta untuk menyusun folder dan files sebagai bentuk dokumentasi dari berkas-berkas yang kamu miliki. Kamu diminta untuk
 
 1. membuat sebuah folder kosong dengan nama-mu sendiri
+```bash
+    mkdir desman
+```
 ![Screenshot 2022-07-26 072732](https://user-images.githubusercontent.com/107124396/180897135-e5143b2d-43b3-45d1-8a04-5628422e39f8.png)
 <br><br>
 3. didalam *folder* tersebut buatlah
