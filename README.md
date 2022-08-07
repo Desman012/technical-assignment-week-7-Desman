@@ -4,8 +4,6 @@ Kamu adalah seorang programmer yang bekerja pada suatu start-up terkini, kemudia
     ```bash
     mkdir desman
     ```
-    ![Screenshot 2022-07-26 072732](https://user-images.githubusercontent.com/107124396/180897135-e5143b2d-43b3-45d1-8a04-5628422e39f8.png)
-    <br><br>
 2. didalam *folder* tersebut buatlah
     - *folder* `sekolah`
     - *folder* `kerja`
@@ -74,6 +72,8 @@ Kamu adalah seorang programmer yang bekerja pada suatu start-up terkini, kemudia
     nano cv.txt
     cat cv.txt
 ```
+    ![Screenshot 2022-08-07 233616](https://user-images.githubusercontent.com/107124396/183301508-e060c32c-e325-4eec-8e5b-4a6fcf5cf5e5.png)
+
 6. Pada tahap ini kamu lupa jika sebenarnya *file* `portfolio.txt` serahusnya tidak berada pada *folder* `sekolah`, jadi kamu harus **memindahkannya** ke dalam folder `kerja`
 ```bash
     cd ../sekolah
