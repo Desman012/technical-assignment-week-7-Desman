@@ -72,7 +72,7 @@ Kamu adalah seorang programmer yang bekerja pada suatu start-up terkini, kemudia
     nano cv.txt
     cat cv.txt
 ```
-    ![Screenshot 2022-08-07 233616](https://user-images.githubusercontent.com/107124396/183301508-e060c32c-e325-4eec-8e5b-4a6fcf5cf5e5.png)
+   ![Screenshot 2022-08-07 233616](https://user-images.githubusercontent.com/107124396/183301508-e060c32c-e325-4eec-8e5b-4a6fcf5cf5e5.png)
 
 6. Pada tahap ini kamu lupa jika sebenarnya *file* `portfolio.txt` serahusnya tidak berada pada *folder* `sekolah`, jadi kamu harus **memindahkannya** ke dalam folder `kerja`
 ```bash
