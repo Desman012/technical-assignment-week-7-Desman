@@ -46,7 +46,7 @@ Kamu adalah seorang programmer yang bekerja pada suatu start-up terkini, kemudia
     nano ijazah.txt
     cat ijazah.txt
     nano portfolio.txt
-```
+```<br>
     ![Screenshot 2022-08-07 233020](https://user-images.githubusercontent.com/107124396/183301162-905e2b6b-5ce1-48bd-a9ac-b9fd64935800.png)
 
 
