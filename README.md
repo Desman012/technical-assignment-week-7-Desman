@@ -70,6 +70,7 @@ Kamu adalah seorang programmer yang bekerja pada suatu start-up terkini, kemudia
 ```bash
     cd kerja
     nano cv.txt
+    cat cv.txt
 ```
 6. Pada tahap ini kamu lupa jika sebenarnya *file* `portfolio.txt` serahusnya tidak berada pada *folder* `sekolah`, jadi kamu harus **memindahkannya** ke dalam folder `kerja`
 ```bash
